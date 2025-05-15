@@ -3,12 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Me, Myself and I"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+          - href: index.qmd
+            text: Home
+          - href: travel.qmd
+            text: Travel
+          - href: hobbies.qmd
+            text: Hobbies
+          - href: reflection.qmd
+            text: Reflection
 
 format:
   html:

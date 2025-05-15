@@ -1,11 +1,36 @@
 ---
-title: "temp_website"
+title: "About Me"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
+page-layout: full
 ---
 
-This is a Quarto website.
+# Hello, I'm Terry
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my personal website! I'm passionate about **technology**, **learning**, and **sharing ideas** that inspire others. Whether it's through code, writing, or visual storytelling, I enjoy building and exploring creative ways to express knowledge.
 
-```{r}
-1 + 1
-```
+## Who I Am
+
+- 🎓 Student at [Singapore Institute of Technology](https://www.singaporetech.edu.sg)
+- 💻 Currently pursuing a course in **Applied Artificial Intelligence**
+- 🌏 Based in Singapore
+- ☕ Coffee ethusiast (I love a good cup of coffee to kickstart my day!)
+
+## Interests
+
+Here are a few things I’ve been working with:
+
+| **Category** | **Description**                                  |
+|--------------|--------------------------------------------------|
+| Gaming       | League of Legends and Valorant                   |
+| Gym          | I enjoy my Leg Days (Squats)                     |
+| Interests    | Web Development, Artificial Intelligence, and Machine Learning |
+
+## A Glimpse Into My Freetime
+
+![Glimpse of my Freedom](https://cdn.techinasia.com/wp-content/uploads/2014/06/peng-chao-game.jpg "Playing League of Legends")
+
+

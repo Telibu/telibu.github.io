@@ -1,0 +1,56 @@
+---
+title: "My Hobbies"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
+page-layout: full
+---
+
+# Gaming: League of Legends
+
+![League of Legends](img/league.jpg)
+
+**League of Legends** is one of my favorite games. I enjoy the competitive atmosphere, strategic depth, and the teamwork it requires.
+
+## Why I love it:
+
+- Fast-paced matches
+- Unique champions with different playstyles
+- Ranked mode keeps me challenged
+- I often mid-lane
+
+_It’s more than a game—it’s a way to relax, learn, and push my skills to the limit._
+
+---
+
+# ️ Fitness: Gym Life
+
+![Gym Time](img/gym.jpg)
+
+Gymming is how I stay **physically and mentally fit**. I especially enjoy **leg day**, because it’s the most demanding but rewarding part of my routine.
+
+## My Gym Routine:
+
+- **Frequency**: 3 times a week
+- **Focus**: Strength training
+- **Favorite exercises**:
+  - Squats 
+  - Shoulder Presses
+  - Lateral Raises
+  - Calf Raises
+
+---
+
+# ️ Summary Table
+
+| Hobby            | Frequency        | Benefits                                |
+|------------------|------------------|------------------------------------------|
+| League of Legends| Daily (Whenever I feel like hopping into a game)    | Strategic thinking, fun, teamwork        |
+| Gymming          | 3x per week      | Strength, discipline, mental clarity     |
+
+---
+
+> _Both of these hobbies keep me balanced—one challenges my mind, the other strengthens my body._
+

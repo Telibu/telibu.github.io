@@ -1,0 +1,62 @@
+---
+title: "My Trip to Seoul"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css
+page-layout: full
+---
+
+# [🇰🇷] My Travel Experience in Seoul
+
+Visiting **Seoul**, the vibrant capital of South Korea, was a dream come true. From the bustling streets of **Myeongdong** to the serene beauty of **Namsan Park**, every corner of this city has a story to tell.
+
+---
+
+## First Attraction Visited
+
+Seoul amazed me with its unique blend of **modern skyscrapers** and **ancient palaces**. The city is alive 24/7, yet there’s still calmness in its temples and parks.
+
+![Gyeongbokgung Palace](https://tong.visitkorea.or.kr/cms/resource/33/2678633_image2_1.jpg)
+
+---
+
+## My First Winter
+
+### A Season of Stillness and Surprise
+
+I had never experienced real winter before visiting Seoul. The first morning I saw snow outside my window, everything felt surreal — **rooftops dusted in white**, **quiet streets**, and the soft crunch of fresh snow under my boots. It was like walking through a postcard.
+
+I visited **Namsan Tower** as snowflakes drifted around me, and the city lights shimmered through the cold haze. The **air was crisp**, and my breath came out in clouds — it felt both **peaceful and powerful**. 
+
+At **Gyeongbokgung Palace**, the contrast of ancient architecture against the white snow made me feel like I'd stepped into a different era. Locals and tourists alike were taking photos, sipping hot drinks, and simply **soaking in the beauty of winter**.
+
+That first winter taught me to **slow down**, appreciate quiet moments, and find joy in small things — like warm hands, spicy *tteokbokki*, or a snowflake landing on my coat.
+
+![Namsan Tower in Snow](img/namsan.jpeg)
+
+
+### Growth Through Independence
+
+This trip taught me to be more **independent** and **adaptable** — from navigating a different language to using public transport to find hidden cafes and neighborhoods.
+
+### Kindness Across Cultures
+
+Koreans were welcoming, and even with a language barrier, people helped me with directions and food recommendations. I was reminded that kindness doesn’t need translation.
+
+---
+
+## A Moment to Remember
+
+![Seoul Tower View](img/topview.jpg)
+
+> “Travel isn’t always about escaping — sometimes it’s about arriving at a better version of yourself.”
+
+---
+
+##  Final Thoughts
+
+Seoul gave me more than memories — it gave me perspective. The energy, beauty, and depth of the city still inspire me today in how I approach life and challenges.
+
+
